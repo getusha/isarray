@@ -1,0 +1,25 @@
+{
+  "name": "@getusha/isarray",
+  "version": "1.0.0",
+  "description": "check if a instance is an array or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getusha/isarray.git"
+  },
+  "keywords": [
+    "isArray",
+    "array",
+    "check",
+    "array"
+  ],
+  "author": "Getabalew Tesfaye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getusha/isarray/issues"
+  },
+  "homepage": "https://github.com/getusha/isarray#readme"
+}
