@@ -1,6 +1,6 @@
 {
   "name": "@getusha/isarray",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check if a instance is an array or not",
   "main": "index.js",
   "scripts": {
